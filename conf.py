@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Data Science Platform notes template"
+project = "Data Science Platform notes template recording"
 copyright = "2024, DTU Biosustain, Informatics Platform, DSP"
 author = "Henry Webel"
 
@@ -81,7 +81,7 @@ html_theme = "sphinx_book_theme"
 # html_favicon = "_static/logo-square.svg"
 html_theme_options = {
     "github_url": "https://github.com/enryh/",
-    "repository_url": "https://github.com/enryh/notes_template",
+    "repository_url": "https://github.com/enryh/notes_template_recording",
     # "repository_branch": "main",
     # "home_page_in_toc": True,
     # "path_to_docs": "docs",

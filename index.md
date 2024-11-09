@@ -14,6 +14,6 @@ about
 :hidden:
 :caption: A topic
 
-folder_topic/article_topic
+tutorial/recording
 ```
 

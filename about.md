@@ -1,5 +1,4 @@
-# About
+# About me
+ 
+I am Henry. I work at DTU biosustain
 
-> More information about your (your team) and your work.
-
-Some text about you here.
